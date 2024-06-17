@@ -52,7 +52,7 @@
     "description": "A cozy downtown loft with great city views.",
     "location": {
       "street": "45 Main Street",
-      "city": "New York",
+      "city": "1",
       "state": "NY",
       "zipcode": "10001"
     },
