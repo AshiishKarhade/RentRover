@@ -6,7 +6,6 @@ import {
   FaCheck,
   FaMapMarker,
 } from 'react-icons/fa';
-import PropertyMap from '@/components/PropertyMap';
 
 const PropertyDetails = ({ property }) => {
   return (
